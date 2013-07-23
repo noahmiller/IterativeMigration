@@ -1,6 +1,6 @@
 # IterativeMigration
 
-IterativeMigration is a simple class for migrating a Core Data store along a series of models.  It is an example for a companion blog post.
+IterativeMigration is a simple class for migrating a Core Data store along a series of models.  It is an example for a companion blog post, [Mixing Inferred and Custom Core Data Migrations](http://blog.artlogic.com/2013/07/12/iterative-core-data-migrations/).
 
 ## License
 
